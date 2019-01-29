@@ -1,0 +1,17 @@
+language: python
+python: 3.6
+
+install:
+  - ":"
+
+script:
+  - ":"
+
+after_script:
+  - git push "https://${GT_TOKEN}@gitee.com/${GT_USER}/${GT_REPO}.git" master:${GT_BRANCH}
+  
+env:
+  global:
+    - GT_USER=it-ebooks
+    - GT_REPO=pua-books
+    - GT_BRANCH=master
