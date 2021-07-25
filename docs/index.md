@@ -1,4 +1,7 @@
- 
+---
+layout: default
+---
+
  文章目录
 
 [1. PUA？把妹学？](#pua%EF%BC%9F%E6%8A%8A%E5%A6%B9%E5%AD%A6%EF%BC%9F)
