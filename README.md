@@ -4,9 +4,9 @@
 
  文章目录
 
-[1. PUA？把妹学？](https://github.com/QianheYu/pua-books/blob/master/readme.md#pua%E6%8A%8A%E5%A6%B9%E5%AD%A6)
+[1. PUA？把妹学？](#pua%E6%8A%8A%E5%A6%B9%E5%AD%A6)
 
-[2. 我知道的把妹学的历史](https://github.com/QianheYu/pua-books/blob/master/readme.md#我知道的把妹学的历史)
+[2. 我知道的把妹学的历史](#我知道的把妹学的历史)
 
 [3. 我的经历](https://chriszheng.science/pua/#%E6%88%91%E7%9A%84%E7%BB%8F%E5%8E%86)
 
