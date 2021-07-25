@@ -4,211 +4,211 @@
 
  文章目录
 
-[1. PUA？把妹学？](#pua%E6%8A%8A%E5%A6%B9%E5%AD%A6)
+[1. PUA？把妹学？](#PUA？把妹学？)
 
 [2. 我知道的把妹学的历史](#我知道的把妹学的历史)
 
-[3. 我的经历](https://chriszheng.science/pua/#%E6%88%91%E7%9A%84%E7%BB%8F%E5%8E%86)
+[3. 我的经历](#我的经历)
 
-[4. 国外经典著作](https://chriszheng.science/pua/#%E5%9B%BD%E5%A4%96%E7%BB%8F%E5%85%B8%E8%91%97%E4%BD%9C)
+[4. 国外经典著作](#国外经典著作)
 
-[4.1. 《谜男方法》](https://chriszheng.science/pua/#%E8%B0%9C%E7%94%B7%E6%96%B9%E6%B3%95)
+[4.1. 《谜男方法》](#《迷男方法》)
 
-[4.2. 《现实世界的诱惑术》](https://chriszheng.science/pua/#%E7%8E%B0%E5%AE%9E%E4%B8%96%E7%95%8C%E7%9A%84%E8%AF%B1%E6%83%91%E6%9C%AF)
+[4.2. 《现实世界的诱惑术》](#《现实世界的诱惑术》)
 
-[4.3. 《把妹达人》](https://chriszheng.science/pua/#%E6%8A%8A%E5%A6%B9%E8%BE%BE%E4%BA%BA)
+[4.3. 《把妹达人》](#《把妹达人》)
 
-[4.4. 《把妹达人2游戏规则》](https://chriszheng.science/pua/#%E6%8A%8A%E5%A6%B9%E8%BE%BE%E4%BA%BA2%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99)
+[4.4. 《把妹达人2游戏规则》](#《把妹达人2游戏规则》)
 
-[4.5. 《David+X的方法（完整版）》](https://chriszheng.science/pua/#david-x%E7%9A%84%E6%96%B9%E6%B3%95-%E5%AE%8C%E6%95%B4%E7%89%88)
+[4.5. 《David+X的方法（完整版）》](#《David+X的方法（完整版）》)
 
-[4.6. 《约会倍增术（第二版）》(Double Your Dating)](https://chriszheng.science/pua/#%E7%BA%A6%E4%BC%9A%E5%80%8D%E5%A2%9E%E6%9C%AF-%E7%AC%AC%E4%BA%8C%E7%89%88-double-your-dating)
+[4.6. 《约会倍增术（第二版）》(Double Your Dating)](#《约会倍增术（第二版）》（Double Your Dating）)
 
-[4.7. 《骄傲风趣指南（完整版）》](https://chriszheng.science/pua/#%E9%AA%84%E5%82%B2%E9%A3%8E%E8%B6%A3%E6%8C%87%E5%8D%97-%E5%AE%8C%E6%95%B4%E7%89%88)
+[4.7. 《骄傲风趣指南（完整版）》](#《骄傲风趣指南（完整版）》)
 
-[4.8. 《启示录》](https://chriszheng.science/pua/#%E5%90%AF%E7%A4%BA%E5%BD%95)
+[4.8. 《启示录》](#《启示录》)
 
-[4.9. 《把妹专业术语（完整版）》](https://chriszheng.science/pua/#%E6%8A%8A%E5%A6%B9%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD-%E5%AE%8C%E6%95%B4%E7%89%88)
+[4.9. 《把妹专业术语（完整版）》](#《把妹专业术语（完整版）》)
 
-[4.10. 杂耍人方法](https://chriszheng.science/pua/#%E6%9D%82%E8%80%8D%E4%BA%BA%E6%96%B9%E6%B3%95)
+[4.10. 杂耍人方法](#杂耍人方法)
 
-[4.11. 《男人来自火星 女人来自金星》](https://chriszheng.science/pua/#%E7%94%B7%E4%BA%BA%E6%9D%A5%E8%87%AA%E7%81%AB%E6%98%9F-%E5%A5%B3%E4%BA%BA%E6%9D%A5%E8%87%AA%E9%87%91%E6%98%9F)
+[4.11. 《男人来自火星 女人来自金星》](#《男人来自火星 女人来自金星》)
 
-[4.12. 进挪术(Kinesthetics)](https://chriszheng.science/pua/#%E8%BF%9B%E6%8C%AA%E6%9C%AF-kinesthetics)
+[4.12. 进挪术(Kinesthetics)](#进挪术(Kinesthetics))
 
-[5. 国产教程](https://chriszheng.science/pua/#%E5%9B%BD%E4%BA%A7%E6%95%99%E7%A8%8B)
+[5. 国产教程](#国产教程)
 
-[5.1. 《中国PUA成长之路（完整版）》](https://chriszheng.science/pua/#%E4%B8%AD%E5%9B%BDpua%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF-%E5%AE%8C%E6%95%B4%E7%89%88)
+[5.1. 《中国PUA成长之路（完整版）》](#《中国PUA成长之路（完整版）》)
 
-[5.2. 《恋爱投资学（完整版）》](https://chriszheng.science/pua/#%E6%81%8B%E7%88%B1%E6%8A%95%E8%B5%84%E5%AD%A6-%E5%AE%8C%E6%95%B4%E7%89%88)
+[5.2. 《恋爱投资学（完整版）》](#《恋爱投资学（完整版）》)
 
-[5.3. 《低成本泡妞》](https://chriszheng.science/pua/#%E4%BD%8E%E6%88%90%E6%9C%AC%E6%B3%A1%E5%A6%9E)
+[5.3. 《低成本泡妞》](#《低成本泡妞》)
 
-[5.4. 《无财无貌怎么泡美女》](https://chriszheng.science/pua/#%E6%97%A0%E8%B4%A2%E6%97%A0%E8%B2%8C%E6%80%8E%E4%B9%88%E6%B3%A1%E7%BE%8E%E5%A5%B3)
+[5.4. 《无财无貌怎么泡美女》](#《无财无貌怎么泡美女》)
 
-[5.5. 《QQ把妹经验》](https://chriszheng.science/pua/#qq%E6%8A%8A%E5%A6%B9%E7%BB%8F%E9%AA%8C)
+[5.5. 《QQ把妹经验》](#《QQ把妹经验》)
 
-[5.6. 《关于对漂亮女孩的追求策略–完全整理清爽版》](https://chriszheng.science/pua/#%E5%85%B3%E4%BA%8E%E5%AF%B9%E6%BC%82%E4%BA%AE%E5%A5%B3%E5%AD%A9%E7%9A%84%E8%BF%BD%E6%B1%82%E7%AD%96%E7%95%A5-%E5%AE%8C%E5%85%A8%E6%95%B4%E7%90%86%E6%B8%85%E7%88%BD%E7%89%88)
+[5.6. 《关于对漂亮女孩的追求策略–完全整理清爽版》](#《关于对漂亮女孩的追求策略–完全整理清爽版》)
 
-[5.7. 《狼族圣经（最终完全版）》（1到3季）](https://chriszheng.science/pua/#%E7%8B%BC%E6%97%8F%E5%9C%A3%E7%BB%8F-%E6%9C%80%E7%BB%88%E5%AE%8C%E5%85%A8%E7%89%88-1%E5%88%B03%E5%AD%A3)
+[5.7. 《狼族圣经（最终完全版）》（1到3季）](#《狼族圣经（最终完全版）》（1到3季）)
 
-[5.8. 《指男针》(根据国情而出的强书)](https://chriszheng.science/pua/#%E6%8C%87%E7%94%B7%E9%92%88-%E6%A0%B9%E6%8D%AE%E5%9B%BD%E6%83%85%E8%80%8C%E5%87%BA%E7%9A%84%E5%BC%BA%E4%B9%A6)
+[5.8. 《指男针》(根据国情而出的强书)](#《指男针》(根据国情而出的强书))
 
-[5.9. 《再次路过之和网络泡妞骨灰级教程（终极整理版）》](https://chriszheng.science/pua/#%E5%86%8D%E6%AC%A1%E8%B7%AF%E8%BF%87%E4%B9%8B%E5%92%8C%E7%BD%91%E7%BB%9C%E6%B3%A1%E5%A6%9E%E9%AA%A8%E7%81%B0%E7%BA%A7%E6%95%99%E7%A8%8B-%E7%BB%88%E6%9E%81%E6%95%B4%E7%90%86%E7%89%88)
+[5.9. 《再次路过之和网络泡妞骨灰级教程（终极整理版）》](#《再次路过之和网络泡妞骨灰级教程（终极整理版）》)
 
-[5.10. 《约会秘籍 高级篇》](https://chriszheng.science/pua/#%E7%BA%A6%E4%BC%9A%E7%A7%98%E7%B1%8D-%E9%AB%98%E7%BA%A7%E7%AF%87)
+[5.10. 《约会秘籍 高级篇》](#《约会秘籍 高级篇》)
 
-[5.11. 《约会禁书》](https://chriszheng.science/pua/#%E7%BA%A6%E4%BC%9A%E7%A6%81%E4%B9%A6)
+[5.11. 《约会禁书》](#《约会禁书》)
 
-[5.12. 《奸的好人系列2-財色戰場》](https://chriszheng.science/pua/#%E5%A5%B8%E7%9A%84%E5%A5%BD%E4%BA%BA%E7%B3%BB%E5%88%972-%E8%B2%A1%E8%89%B2%E6%88%B0%E5%A0%B4)
+[5.12. 《奸的好人系列2-財色戰場》](#《奸的好人系列2-財色戰場》)
 
-[5.13. 《完全男人训练讲座》](https://chriszheng.science/pua/#%E5%AE%8C%E5%85%A8%E7%94%B7%E4%BA%BA%E8%AE%AD%E7%BB%83%E8%AE%B2%E5%BA%A7)
+[5.13. 《完全男人训练讲座》](#《完全男人训练讲座》)
 
-[5.14. 《懦夫救星》](https://chriszheng.science/pua/#%E6%87%A6%E5%A4%AB%E6%95%91%E6%98%9F)
+[5.14. 《懦夫救星》](#《懦夫救星》)
 
-[5.15. 《你不可不知的情场致胜秘密》](https://chriszheng.science/pua/#%E4%BD%A0%E4%B8%8D%E5%8F%AF%E4%B8%8D%E7%9F%A5%E7%9A%84%E6%83%85%E5%9C%BA%E8%87%B4%E8%83%9C%E7%A7%98%E5%AF%86)
+[5.15. 《你不可不知的情场致胜秘密》](#《你不可不知的情场致胜秘密》)
 
-[5.16. 《身体语言密码》](https://chriszheng.science/pua/#%E8%BA%AB%E4%BD%93%E8%AF%AD%E8%A8%80%E5%AF%86%E7%A0%81)
+[5.16. 《身体语言密码》](#《身体语言密码》)
 
-[5.17. 《女人最想让男人做的58件事》](https://chriszheng.science/pua/#%E5%A5%B3%E4%BA%BA%E6%9C%80%E6%83%B3%E8%AE%A9%E7%94%B7%E4%BA%BA%E5%81%9A%E7%9A%8458%E4%BB%B6%E4%BA%8B)
+[5.17. 《女人最想让男人做的58件事》](#《女人最想让男人做的58件事》)
 
-[5.18. 《恋爱必读》](https://chriszheng.science/pua/#%E6%81%8B%E7%88%B1%E5%BF%85%E8%AF%BB)
+[5.18. 《恋爱必读》](#《恋爱必读》)
 
-[5.19. 《阿卡德米爱情学院》](https://chriszheng.science/pua/#%E9%98%BF%E5%8D%A1%E5%BE%B7%E7%B1%B3%E7%88%B1%E6%83%85%E5%AD%A6%E9%99%A2)
+[5.19. 《阿卡德米爱情学院》](#《阿卡德米爱情学院》)
 
-[5.20. 《爱情心理学》](https://chriszheng.science/pua/#%E7%88%B1%E6%83%85%E5%BF%83%E7%90%86%E5%AD%A6)
+[5.20. 《爱情心理学》](#《爱情心理学》)
 
-[5.21. 《人格与命运：中国人的九型人格》](https://chriszheng.science/pua/#%E4%BA%BA%E6%A0%BC%E4%B8%8E%E5%91%BD%E8%BF%90%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%B9%9D%E5%9E%8B%E4%BA%BA%E6%A0%BC)
+[5.21. 《人格与命运：中国人的九型人格》](# 《人格与命运：中国人的九型人格》)
 
-[5.22. 《精子战争》](https://chriszheng.science/pua/#%E7%B2%BE%E5%AD%90%E6%88%98%E4%BA%89)
+[5.22. 《精子战争》](#《精子战争》)
 
-[6. 把妹学相关技术](https://chriszheng.science/pua/#%E6%8A%8A%E5%A6%B9%E5%AD%A6%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF)
+[6. 把妹学相关技术](#把妹学相关技术)
 
-[6.1. 《瞬间赢得信任的冷读术》](https://chriszheng.science/pua/#%E7%9E%AC%E9%97%B4%E8%B5%A2%E5%BE%97%E4%BF%A1%E4%BB%BB%E7%9A%84%E5%86%B7%E8%AF%BB%E6%9C%AF)
+[6.1. 《瞬间赢得信任的冷读术》](#《瞬间赢得信任的冷读术》)
 
-[6.2. 《催眠入门指导手册》](https://chriszheng.science/pua/#%E5%82%AC%E7%9C%A0%E5%85%A5%E9%97%A8%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C)
+[6.2. 《催眠入门指导手册》](#《催眠入门指导手册》)
 
-[6.3. 《手面相学讲义》](https://chriszheng.science/pua/#%E6%89%8B%E9%9D%A2%E7%9B%B8%E5%AD%A6%E8%AE%B2%E4%B9%89)
+[6.3. 《手面相学讲义》](#《手面相学讲义》)
 
-[6.4. 《训练磁性声音的秘诀》](https://chriszheng.science/pua/#%E8%AE%AD%E7%BB%83%E7%A3%81%E6%80%A7%E5%A3%B0%E9%9F%B3%E7%9A%84%E7%A7%98%E8%AF%80)
+[6.4. 《训练磁性声音的秘诀》](#《训练磁性声音的秘诀》)
 
-[6.5. 《如何练习充满魅力的眼神》](https://chriszheng.science/pua/#%E5%A6%82%E4%BD%95%E7%BB%83%E4%B9%A0%E5%85%85%E6%BB%A1%E9%AD%85%E5%8A%9B%E7%9A%84%E7%9C%BC%E7%A5%9E)
+[6.5. 《如何练习充满魅力的眼神》](#《如何练习充满魅力的眼神》)
 
-[6.6. 《英国皇家特种部队腹肌训练计划》](https://chriszheng.science/pua/#%E8%8B%B1%E5%9B%BD%E7%9A%87%E5%AE%B6%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E8%85%B9%E8%82%8C%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92)
+[6.6. 《英国皇家特种部队腹肌训练计划》](#《英国皇家特种部队腹肌训练计划》)
 
-[6.7. 《6周内让你能连续做满100个俯卧撑的方法（图文版）》](https://chriszheng.science/pua/#6%E5%91%A8%E5%86%85%E8%AE%A9%E4%BD%A0%E8%83%BD%E8%BF%9E%E7%BB%AD%E5%81%9A%E6%BB%A1100%E4%B8%AA%E4%BF%AF%E5%8D%A7%E6%92%91%E7%9A%84%E6%96%B9%E6%B3%95-%E5%9B%BE%E6%96%87%E7%89%88)
+[6.7. 《6周内让你能连续做满100个俯卧撑的方法（图文版）》](#《6周内让你能连续做满100个俯卧撑的方法（图文版）》)
 
-[6.8. 《克服手淫的特效方法》](https://chriszheng.science/pua/#%E5%85%8B%E6%9C%8D%E6%89%8B%E6%B7%AB%E7%9A%84%E7%89%B9%E6%95%88%E6%96%B9%E6%B3%95)
+[6.8. 《克服手淫的特效方法》](#《克服手淫的特效方法》)
 
-[6.9. 《教你远距离鉴别处女》](https://chriszheng.science/pua/#%E6%95%99%E4%BD%A0%E8%BF%9C%E8%B7%9D%E7%A6%BB%E9%89%B4%E5%88%AB%E5%A4%84%E5%A5%B3)
+[6.9. 《教你远距离鉴别处女》](#《教你远距离鉴别处女》)
 
-[6.10. 《六周内让你能连续做满一百个俯卧撑》](https://chriszheng.science/pua/#%E5%85%AD%E5%91%A8%E5%86%85%E8%AE%A9%E4%BD%A0%E8%83%BD%E8%BF%9E%E7%BB%AD%E5%81%9A%E6%BB%A1%E4%B8%80%E7%99%BE%E4%B8%AA%E4%BF%AF%E5%8D%A7%E6%92%91)
+[6.10. 《六周内让你能连续做满一百个俯卧撑》](#《六周内让你能连续做满一百个俯卧撑》)
 
-[6.11. 《FBI教你读心术》](https://chriszheng.science/pua/#fbi%E6%95%99%E4%BD%A0%E8%AF%BB%E5%BF%83%E6%9C%AF)
+[6.11. 《FBI教你读心术》](#《FBI教你读心术》)
 
-[6.12. 《NLP心理定律》](https://chriszheng.science/pua/#nlp%E5%BF%83%E7%90%86%E5%AE%9A%E5%BE%8B)
+[6.12. 《NLP心理定律》](#《NLP心理定律》)
 
-[6.13. 《NLP财色》](https://chriszheng.science/pua/#nlp%E8%B4%A2%E8%89%B2)
+[6.13. 《NLP财色》](#《NLP财色》)
 
-[6.14. 《每天用一点神奇催眠术》](https://chriszheng.science/pua/#%E6%AF%8F%E5%A4%A9%E7%94%A8%E4%B8%80%E7%82%B9%E7%A5%9E%E5%A5%87%E5%82%AC%E7%9C%A0%E6%9C%AF)
+[6.14. 《每天用一点神奇催眠术》](#《每天用一点神奇催眠术》)
 
-[6.15. 男人几个强肾方法+长生方](https://chriszheng.science/pua/#%E7%94%B7%E4%BA%BA%E5%87%A0%E4%B8%AA%E5%BC%BA%E8%82%BE%E6%96%B9%E6%B3%95-%E9%95%BF%E7%94%9F%E6%96%B9)
+[6.15. 男人几个强肾方法+长生方](#男人几个强肾方法+长生方)
 
-[6.16. 冷读术](https://chriszheng.science/pua/#%E5%86%B7%E8%AF%BB%E6%9C%AF)
+[6.16. 冷读术](#冷读术)
 
-[6.17. 《秘藏超能催眠术》（全本）作者：钱寿海](https://chriszheng.science/pua/#%E7%A7%98%E8%97%8F%E8%B6%85%E8%83%BD%E5%82%AC%E7%9C%A0%E6%9C%AF-%E5%85%A8%E6%9C%AC-%E4%BD%9C%E8%80%85%EF%BC%9A%E9%92%B1%E5%AF%BF%E6%B5%B7)
+[6.17. 《秘藏超能催眠术》（全本）作者：钱寿海](#《秘藏超能催眠术》（全本）作者：钱寿海)
 
-[6.18. 《如何练习充满魅力的眼神》](https://chriszheng.science/pua/#%E5%A6%82%E4%BD%95%E7%BB%83%E4%B9%A0%E5%85%85%E6%BB%A1%E9%AD%85%E5%8A%9B%E7%9A%84%E7%9C%BC%E7%A5%9E-v2)
+[6.18. 《如何练习充满魅力的眼神》](#《如何练习充满魅力的眼神》)
 
-[6.19. 《手面相学讲义》](https://chriszheng.science/pua/#%E6%89%8B%E9%9D%A2%E7%9B%B8%E5%AD%A6%E8%AE%B2%E4%B9%89-v2)
+[6.19. 《手面相学讲义》](#《手面相学讲义》)
 
-[6.20. 《占星术1.0》](https://chriszheng.science/pua/#%E5%8D%A0%E6%98%9F%E6%9C%AF1-0)
+[6.20. 《占星术1.0》](#《占星术1.0》)
 
-[6.21. 《占星术2.0》](https://chriszheng.science/pua/#%E5%8D%A0%E6%98%9F%E6%9C%AF2-0)
+[6.21. 《占星术2.0》](#《占星术2.0》)
 
-[6.22. 刘谦推荐追女生必学的小魔术（女生勿进，勿传播）](https://chriszheng.science/pua/#%E5%88%98%E8%B0%A6%E6%8E%A8%E8%8D%90%E8%BF%BD%E5%A5%B3%E7%94%9F%E5%BF%85%E5%AD%A6%E7%9A%84%E5%B0%8F%E9%AD%94%E6%9C%AF-%E5%A5%B3%E7%94%9F%E5%8B%BF%E8%BF%9B-%E5%8B%BF%E4%BC%A0%E6%92%AD)
+[6.22. 刘谦推荐追女生必学的小魔术（女生勿进，勿传播）](#刘谦推荐追女生必学的小魔术（女生勿进，勿传播）)
 
-[6.23. 职业催眠师训练课程](https://chriszheng.science/pua/#%E8%81%8C%E4%B8%9A%E5%82%AC%E7%9C%A0%E5%B8%88%E8%AE%AD%E7%BB%83%E8%AF%BE%E7%A8%8B)
+[6.23. 职业催眠师训练课程](#职业催眠师训练课程)
 
-[6.24. 5分钟搞定对方：你可以看透任何人](https://chriszheng.science/pua/#5%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E5%AF%B9%E6%96%B9%EF%BC%9A%E4%BD%A0%E5%8F%AF%E4%BB%A5%E7%9C%8B%E9%80%8F%E4%BB%BB%E4%BD%95%E4%BA%BA)
+[6.24. 5分钟搞定对方：你可以看透任何人](#5分钟搞定对方：你可以看透任何人)
 
-[6.25. 催眠术学习高阶技巧汇编](https://chriszheng.science/pua/#%E5%82%AC%E7%9C%A0%E6%9C%AF%E5%AD%A6%E4%B9%A0%E9%AB%98%E9%98%B6%E6%8A%80%E5%B7%A7%E6%B1%87%E7%BC%96)
+[6.25. 催眠术学习高阶技巧汇编](#催眠术学习高阶技巧汇编)
 
-[6.26. 自我催眠术——消除心理疾病的自我疗法](https://chriszheng.science/pua/#%E8%87%AA%E6%88%91%E5%82%AC%E7%9C%A0%E6%9C%AF-%E6%B6%88%E9%99%A4%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%E7%9A%84%E8%87%AA%E6%88%91%E7%96%97%E6%B3%95)
+[6.26. 自我催眠术——消除心理疾病的自我疗法](#自我催眠术——消除心理疾病的自我疗法)
 
-[7. 惯例](https://chriszheng.science/pua/#%E6%83%AF%E4%BE%8B)
+[7. 惯例](#惯例)
 
-[7.1. 《吸引美女的50个必备技巧+84个精彩实战惯例》](https://chriszheng.science/pua/#%E5%90%B8%E5%BC%95%E7%BE%8E%E5%A5%B3%E7%9A%8450%E4%B8%AA%E5%BF%85%E5%A4%87%E6%8A%80%E5%B7%A7-84%E4%B8%AA%E7%B2%BE%E5%BD%A9%E5%AE%9E%E6%88%98%E6%83%AF%E4%BE%8B)
+[7.1. 《吸引美女的50个必备技巧+84个精彩实战惯例》](#%E5%90%B8%E5%BC%95%E7%BE%8E%E5%A5%B3%E7%9A%8450%E4%B8%AA%E5%BF%85%E5%A4%87%E6%8A%80%E5%B7%A7-84%E4%B8%AA%E7%B2%BE%E5%BD%A9%E5%AE%9E%E6%88%98%E6%83%AF%E4%BE%8B)
 
-[7.2. 《经典泡妞话术惯例库v5》](https://chriszheng.science/pua/#%E7%BB%8F%E5%85%B8%E6%B3%A1%E5%A6%9E%E8%AF%9D%E6%9C%AF%E6%83%AF%E4%BE%8B%E5%BA%93v5)
+[7.2. 《经典泡妞话术惯例库v5》]#%E7%BB%8F%E5%85%B8%E6%B3%A1%E5%A6%9E%E8%AF%9D%E6%9C%AF%E6%83%AF%E4%BE%8B%E5%BA%93v5)
 
-[7.3. 《超级约会学V7完美版》](https://chriszheng.science/pua/#%E8%B6%85%E7%BA%A7%E7%BA%A6%E4%BC%9A%E5%AD%A6v7%E5%AE%8C%E7%BE%8E%E7%89%88)
+[7.3. 《超级约会学V7完美版》](#%E8%B6%85%E7%BA%A7%E7%BA%A6%E4%BC%9A%E5%AD%A6v7%E5%AE%8C%E7%BE%8E%E7%89%88)
 
-[7.4. 《与MM聊天的128个步步深入话题》](https://chriszheng.science/pua/#%E4%B8%8Emm%E8%81%8A%E5%A4%A9%E7%9A%84128%E4%B8%AA%E6%AD%A5%E6%AD%A5%E6%B7%B1%E5%85%A5%E8%AF%9D%E9%A2%98)
+[7.4. 《与MM聊天的128个步步深入话题》](#%E4%B8%8Emm%E8%81%8A%E5%A4%A9%E7%9A%84128%E4%B8%AA%E6%AD%A5%E6%AD%A5%E6%B7%B1%E5%85%A5%E8%AF%9D%E9%A2%98)
 
-[7.5. 《教你怎么用一句话把MM弄的又好气又好笑》](https://chriszheng.science/pua/#%E6%95%99%E4%BD%A0%E6%80%8E%E4%B9%88%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%8A%8Amm%E5%BC%84%E7%9A%84%E5%8F%88%E5%A5%BD%E6%B0%94%E5%8F%88%E5%A5%BD%E7%AC%91)
+[7.5. 《教你怎么用一句话把MM弄的又好气又好笑》](#%E6%95%99%E4%BD%A0%E6%80%8E%E4%B9%88%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%8A%8Amm%E5%BC%84%E7%9A%84%E5%8F%88%E5%A5%BD%E6%B0%94%E5%8F%88%E5%A5%BD%E7%AC%91)
 
-[7.6. 《展示DHV灌装材料-咖啡厅里的小魔术》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E5%92%96%E5%95%A1%E5%8E%85%E9%87%8C%E7%9A%84%E5%B0%8F%E9%AD%94%E6%9C%AF)
+[7.6. 《展示DHV灌装材料-咖啡厅里的小魔术》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E5%92%96%E5%95%A1%E5%8E%85%E9%87%8C%E7%9A%84%E5%B0%8F%E9%AD%94%E6%9C%AF)
 
-[7.7. 《展示DHV灌装材料-100个世界景点背后的故事》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-100%E4%B8%AA%E4%B8%96%E7%95%8C%E6%99%AF%E7%82%B9%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B)
+[7.7. 《展示DHV灌装材料-100个世界景点背后的故事》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-100%E4%B8%AA%E4%B8%96%E7%95%8C%E6%99%AF%E7%82%B9%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B)
 
-[7.8. 《展示DHV灌装材料-100本名著精华部分》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-100%E6%9C%AC%E5%90%8D%E8%91%97%E7%B2%BE%E5%8D%8E%E9%83%A8%E5%88%86)
+[7.8. 《展示DHV灌装材料-100本名著精华部分》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-100%E6%9C%AC%E5%90%8D%E8%91%97%E7%B2%BE%E5%8D%8E%E9%83%A8%E5%88%86)
 
-[7.9. 《展示DHV灌装材料-中国结教程（国人必看）》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E4%B8%AD%E5%9B%BD%E7%BB%93%E6%95%99%E7%A8%8B-%E5%9B%BD%E4%BA%BA%E5%BF%85%E7%9C%8B)
+[7.9. 《展示DHV灌装材料-中国结教程（国人必看）》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E4%B8%AD%E5%9B%BD%E7%BB%93%E6%95%99%E7%A8%8B-%E5%9B%BD%E4%BA%BA%E5%BF%85%E7%9C%8B)
 
-[7.10. 《展示DHV灌装材料-中国情诗名句》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E4%B8%AD%E5%9B%BD%E6%83%85%E8%AF%97%E5%90%8D%E5%8F%A5)
+[7.10. 《展示DHV灌装材料-中国情诗名句》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E4%B8%AD%E5%9B%BD%E6%83%85%E8%AF%97%E5%90%8D%E5%8F%A5)
 
-[7.11. 《展示DHV灌装材料-幽默笑话搞笑短信大全5000条》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E5%B9%BD%E9%BB%98%E7%AC%91%E8%AF%9D%E6%90%9E%E7%AC%91%E7%9F%AD%E4%BF%A1%E5%A4%A7%E5%85%A85000%E6%9D%A1)
+[7.11. 《展示DHV灌装材料-幽默笑话搞笑短信大全5000条》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E5%B9%BD%E9%BB%98%E7%AC%91%E8%AF%9D%E6%90%9E%E7%AC%91%E7%9F%AD%E4%BF%A1%E5%A4%A7%E5%85%A85000%E6%9D%A1)
 
-[7.12. 《展示DHV灌装材料-593个脑筋急转弯问题及答案》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-593%E4%B8%AA%E8%84%91%E7%AD%8B%E6%80%A5%E8%BD%AC%E5%BC%AF%E9%97%AE%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88)
+[7.12. 《展示DHV灌装材料-593个脑筋急转弯问题及答案》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-593%E4%B8%AA%E8%84%91%E7%AD%8B%E6%80%A5%E8%BD%AC%E5%BC%AF%E9%97%AE%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88)
 
-[7.13. 《展示DHV灌装材料-44个超级经典幽默惯例》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-44%E4%B8%AA%E8%B6%85%E7%BA%A7%E7%BB%8F%E5%85%B8%E5%B9%BD%E9%BB%98%E6%83%AF%E4%BE%8B)
+[7.13. 《展示DHV灌装材料-44个超级经典幽默惯例》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-44%E4%B8%AA%E8%B6%85%E7%BA%A7%E7%BB%8F%E5%85%B8%E5%B9%BD%E9%BB%98%E6%83%AF%E4%BE%8B)
 
-[7.14. 《展示DHV灌装材料-把妹搞笑素材》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E6%8A%8A%E5%A6%B9%E6%90%9E%E7%AC%91%E7%B4%A0%E6%9D%90)
+[7.14. 《展示DHV灌装材料-把妹搞笑素材》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E6%8A%8A%E5%A6%B9%E6%90%9E%E7%AC%91%E7%B4%A0%E6%9D%90)
 
-[7.15. 《展示DHV灌装材料-吴宗宪笑话大全》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E5%90%B4%E5%AE%97%E5%AE%AA%E7%AC%91%E8%AF%9D%E5%A4%A7%E5%85%A8)
+[7.15. 《展示DHV灌装材料-吴宗宪笑话大全》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E5%90%B4%E5%AE%97%E5%AE%AA%E7%AC%91%E8%AF%9D%E5%A4%A7%E5%85%A8)
 
-[7.16. 《展示DHV灌装材料-感动女人的30句温柔话》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E6%84%9F%E5%8A%A8%E5%A5%B3%E4%BA%BA%E7%9A%8430%E5%8F%A5%E6%B8%A9%E6%9F%94%E8%AF%9D)
+[7.16. 《展示DHV灌装材料-感动女人的30句温柔话》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E6%84%9F%E5%8A%A8%E5%A5%B3%E4%BA%BA%E7%9A%8430%E5%8F%A5%E6%B8%A9%E6%9F%94%E8%AF%9D)
 
-[7.17. 《展示DHV灌装材料-100条郭德纲经典语录》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-100%E6%9D%A1%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95)
+[7.17. 《展示DHV灌装材料-100条郭德纲经典语录》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-100%E6%9D%A1%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95)
 
-[7.18. 《展示DHV灌装材料-让周星驰和吴孟达服气的100句经典电影台词》](https://chriszheng.science/pua/#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E8%AE%A9%E5%91%A8%E6%98%9F%E9%A9%B0%E5%92%8C%E5%90%B4%E5%AD%9F%E8%BE%BE%E6%9C%8D%E6%B0%94%E7%9A%84100%E5%8F%A5%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D)
+[7.18. 《展示DHV灌装材料-让周星驰和吴孟达服气的100句经典电影台词》](#%E5%B1%95%E7%A4%BAdhv%E7%81%8C%E8%A3%85%E6%9D%90%E6%96%99-%E8%AE%A9%E5%91%A8%E6%98%9F%E9%A9%B0%E5%92%8C%E5%90%B4%E5%AD%9F%E8%BE%BE%E6%9C%8D%E6%B0%94%E7%9A%84100%E5%8F%A5%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D)
 
-[7.19. 《酒场泡妞话术-45个经典劝酒挡酒词》](https://chriszheng.science/pua/#%E9%85%92%E5%9C%BA%E6%B3%A1%E5%A6%9E%E8%AF%9D%E6%9C%AF-45%E4%B8%AA%E7%BB%8F%E5%85%B8%E5%8A%9D%E9%85%92%E6%8C%A1%E9%85%92%E8%AF%8D)
+[7.19. 《酒场泡妞话术-45个经典劝酒挡酒词》](#%E9%85%92%E5%9C%BA%E6%B3%A1%E5%A6%9E%E8%AF%9D%E6%9C%AF-45%E4%B8%AA%E7%BB%8F%E5%85%B8%E5%8A%9D%E9%85%92%E6%8C%A1%E9%85%92%E8%AF%8D)
 
-[7.20. 《与MM在酒桌上的38小游戏》](https://chriszheng.science/pua/#%E4%B8%8Emm%E5%9C%A8%E9%85%92%E6%A1%8C%E4%B8%8A%E7%9A%8438%E5%B0%8F%E6%B8%B8%E6%88%8F)
+[7.20. 《与MM在酒桌上的38小游戏》](#%E4%B8%8Emm%E5%9C%A8%E9%85%92%E6%A1%8C%E4%B8%8A%E7%9A%8438%E5%B0%8F%E6%B8%B8%E6%88%8F)
 
-[7.21. 《周星驰+葛优+王家卫 经典幽默台词惯例大全》](https://chriszheng.science/pua/#%E5%91%A8%E6%98%9F%E9%A9%B0-%E8%91%9B%E4%BC%98-%E7%8E%8B%E5%AE%B6%E5%8D%AB-%E7%BB%8F%E5%85%B8%E5%B9%BD%E9%BB%98%E5%8F%B0%E8%AF%8D%E6%83%AF%E4%BE%8B%E5%A4%A7%E5%85%A8)
+[7.21. 《周星驰+葛优+王家卫 经典幽默台词惯例大全》](#%E5%91%A8%E6%98%9F%E9%A9%B0-%E8%91%9B%E4%BC%98-%E7%8E%8B%E5%AE%B6%E5%8D%AB-%E7%BB%8F%E5%85%B8%E5%B9%BD%E9%BB%98%E5%8F%B0%E8%AF%8D%E6%83%AF%E4%BE%8B%E5%A4%A7%E5%85%A8)
 
-[7.22. 《影响你一生的100个幽默技巧》](https://chriszheng.science/pua/#%E5%BD%B1%E5%93%8D%E4%BD%A0%E4%B8%80%E7%94%9F%E7%9A%84100%E4%B8%AA%E5%B9%BD%E9%BB%98%E6%8A%80%E5%B7%A7)
+[7.22. 《影响你一生的100个幽默技巧》](#%E5%BD%B1%E5%93%8D%E4%BD%A0%E4%B8%80%E7%94%9F%E7%9A%84100%E4%B8%AA%E5%B9%BD%E9%BB%98%E6%8A%80%E5%B7%A7)
 
-[7.23. 《男人最帅的42个瞬间》](https://chriszheng.science/pua/#%E7%94%B7%E4%BA%BA%E6%9C%80%E5%B8%85%E7%9A%8442%E4%B8%AA%E7%9E%AC%E9%97%B4)
+[7.23. 《男人最帅的42个瞬间》](#%E7%94%B7%E4%BA%BA%E6%9C%80%E5%B8%85%E7%9A%8442%E4%B8%AA%E7%9E%AC%E9%97%B4)
 
-[7.24. 《男人最让女人疯狂的细节》](https://chriszheng.science/pua/#%E7%94%B7%E4%BA%BA%E6%9C%80%E8%AE%A9%E5%A5%B3%E4%BA%BA%E7%96%AF%E7%8B%82%E7%9A%84%E7%BB%86%E8%8A%82)
+[7.24. 《男人最让女人疯狂的细节》](#%E7%94%B7%E4%BA%BA%E6%9C%80%E8%AE%A9%E5%A5%B3%E4%BA%BA%E7%96%AF%E7%8B%82%E7%9A%84%E7%BB%86%E8%8A%82)
 
-[7.25. 《未婚男子必读的50条感悟》](https://chriszheng.science/pua/#%E6%9C%AA%E5%A9%9A%E7%94%B7%E5%AD%90%E5%BF%85%E8%AF%BB%E7%9A%8450%E6%9D%A1%E6%84%9F%E6%82%9F)
+[7.25. 《未婚男子必读的50条感悟》](#《未婚男子必读的50条感悟》)
 
-[7.26. QQ](https://chriszheng.science/pua/#qq)
+[7.26. QQ](#qq)
 
-[7.27. 《吴宗宪的四十段经典台词》](https://chriszheng.science/pua/#%E5%90%B4%E5%AE%97%E5%AE%AA%E7%9A%84%E5%9B%9B%E5%8D%81%E6%AE%B5%E7%BB%8F%E5%85%B8%E5%8F%B0%E8%AF%8D)
+[7.27. 《吴宗宪的四十段经典台词》](#《吴宗宪的四十段经典台词》)
 
-[7.28. 【精华】—五十个必备技巧及惯例展示](https://chriszheng.science/pua/#%E7%B2%BE%E5%8D%8E-%E4%BA%94%E5%8D%81%E4%B8%AA%E5%BF%85%E5%A4%87%E6%8A%80%E5%B7%A7%E5%8F%8A%E6%83%AF%E4%BE%8B%E5%B1%95%E7%A4%BA)
+[7.28. 【精华】—五十个必备技巧及惯例展示](#【精华】—五十个必备技巧及惯例展示)
 
-[7.29. 一百本名著的精华浓缩](https://chriszheng.science/pua/#%E4%B8%80%E7%99%BE%E6%9C%AC%E5%90%8D%E8%91%97%E7%9A%84%E7%B2%BE%E5%8D%8E%E6%B5%93%E7%BC%A9)
+[7.29. 一百本名著的精华浓缩](#一百本名著的精华浓缩)
 
-[7.30. 一十五句话](https://chriszheng.science/pua/#%E4%B8%80%E5%8D%81%E4%BA%94%E5%8F%A5%E8%AF%9D)
+[7.30. 一十五句话](#一十五句话)
 
-[7.31. 聊天话题](https://chriszheng.science/pua/#%E8%81%8A%E5%A4%A9%E8%AF%9D%E9%A2%98)
+[7.31. 聊天话题](#聊天话题)
 
-[7.32. 一些总结的惯例](https://chriszheng.science/pua/#%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93%E7%9A%84%E6%83%AF%E4%BE%8B)
+[7.32. 一些总结的惯例](# 一些总结的惯例)
 
-[7.33. 中国情诗名句排行榜一百](https://chriszheng.science/pua/#%E4%B8%AD%E5%9B%BD%E6%83%85%E8%AF%97%E5%90%8D%E5%8F%A5%E6%8E%92%E8%A1%8C%E6%A6%9C%E4%B8%80%E7%99%BE)
+[7.33. 中国情诗名句排行榜一百](#中国情诗名句排行榜一百)
 
-[7.34. 值得一生收藏的经典电影台词](https://chriszheng.science/pua/#%E5%80%BC%E5%BE%97%E4%B8%80%E7%94%9F%E6%94%B6%E8%97%8F%E7%9A%84%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D)
+[7.34. 值得一生收藏的经典电影台词](#值得一生收藏的经典电影台词)
 
-[7.35. 《吸引美女的50个必备技巧+84个精彩实战惯例》](https://chriszheng.science/pua/#%E5%90%B8%E5%BC%95%E7%BE%8E%E5%A5%B3%E7%9A%8450%E4%B8%AA%E5%BF%85%E5%A4%87%E6%8A%80%E5%B7%A7-84%E4%B8%AA%E7%B2%BE%E5%BD%A9%E5%AE%9E%E6%88%98%E6%83%AF%E4%BE%8B-v2)
+[7.35. 《吸引美女的50个必备技巧+84个精彩实战惯例》](#《吸引美女的50个必备技巧+84个精彩实战惯例》)
 
-[7.36. 吴宗宪笑話](https://chriszheng.science/pua/#%E5%90%B4%E5%AE%97%E5%AE%AA%E7%AC%91%E8%A9%B1)
+[7.36. 吴宗宪笑話](#吴宗宪笑話)
 
 [8. 乱七八糟的心得体会](https://chriszheng.science/pua/#%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A)
 
