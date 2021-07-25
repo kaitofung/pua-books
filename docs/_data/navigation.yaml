@@ -1,0 +1,4 @@
+- name: Home
+  link: /
+- name: Download Books
+  link: https://github.com/QianheYu/pua-books/releases/download/1.0/pua-books-v1.0.zip
