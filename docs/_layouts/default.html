@@ -27,7 +27,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
-        <a href="{{ site.github.releases.latest_url }}" class="btn">Download</a>
+        <a href="{{ site.github.releases_url }}" class="btn">Download Release</a>
       {% endif %}
     </header>
 
