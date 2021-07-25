@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: 200多本把妹学电子书的读书笔记
 #description: 约炮教程
 page_excerpts: true
+show_downloads: false
