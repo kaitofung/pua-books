@@ -1094,5 +1094,5 @@ PUA的负面报道越来越多，PUA这个词很大程度被污名化了，几�
 
 ### 重开搭讪之路一【冷读】
 
-[200多本把妹学电子书的读书笔记 | M-x Chris-An-Emacser (chriszheng.science)]()
+[200多本把妹学电子书的读书笔记 M-x Chris-An-Emacser (chriszheng.science)](https://chriszheng.science/pua/)
 
